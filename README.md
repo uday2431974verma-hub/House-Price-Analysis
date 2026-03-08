@@ -1,5 +1,4 @@
-# House-Price-Analysis
-first project on house price analysis using Tableau
+
 # House Price Analysis using Tableau
 
 This project analyzes housing market trends using Tableau dashboards.
